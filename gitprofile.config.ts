@@ -78,10 +78,17 @@ const CONFIG = {
   ],
   experiences: [
       {
+        company: 'Red5 Pro',
+        position: 'Senior Software Engineer',
+        from: 'January 2025',
+        to: 'Present',
+        companyLink: 'https://www.red5.net/',
+      },
+      {
         company: 'Ant Media',
         position: 'Software Engineer',
         from: 'September 2021',
-        to: 'Present',
+        to: 'January 2025',
         companyLink: 'https://antmedia.io/',
       },
       {
@@ -155,7 +162,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'dracula',
+    defaultTheme: 'pastel',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
